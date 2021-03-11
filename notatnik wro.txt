@@ -1,0 +1,24 @@
+<HTML>
+<BODY>
+<BODY bgcolor=lightgrey>
+<font face="tmes new roman">
+<HEAD> 
+<meta charset="utf-8">
+<hr><B><I><font size=6>Wycieczka po Wrocławiu</font size=6></I></B><hr>
+</HEAD>
+</hr>
+<UL> 
+temat
+<LI>lista 
+<LI>lista 2
+<OL>
+<LI>liczba
+</OL>
+</UL>
+<smal> tag</smal> <big> nie  </big>yayay
+<p>akapit</P>
+<br> nowy wiersz
+<br> tak
+<img src="wrofotol.jpg">
+</BODY>
+</HTML>
